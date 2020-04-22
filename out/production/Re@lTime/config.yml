@@ -1,0 +1,8 @@
+#同步冷却时间
+cooldown: 60
+#是否开启调试模式
+debug: false
+#需要同步的世界
+worlds:
+  - "world"
+  - "mine"
